@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>爬爬茨</title><link>https://b.zbb96.dynv6.net</link><description>一些随手的笔记</description><copyright>爬爬茨</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://cdn.jsdelivr.net/gh/zb9678/img@main/up1/01.26:16:59:17.png</url><title>avatar</title><link>https://b.zbb96.dynv6.net</link></image><lastBuildDate>Sun, 26 Jan 2025 14:28:47 +0000</lastBuildDate><managingEditor>爬爬茨</managingEditor><ttl>60</ttl><webMaster>爬爬茨</webMaster><item><title>爬爬茨</title><link>https://b.zbb96.dynv6.net/post/pa-pa-ci.html</link><description>{
-  'title': '爬爬茨',
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>爬爬茨</title><link>https://b.zbb96.dynv6.net</link><description>一些随手的笔记</description><copyright>爬爬茨</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://cdn.jsdelivr.net/gh/zb9678/img@main/up1/01.26:16:59:17.png</url><title>avatar</title><link>https://b.zbb96.dynv6.net</link></image><lastBuildDate>Sun, 26 Jan 2025 14:36:33 +0000</lastBuildDate><managingEditor>爬爬茨</managingEditor><ttl>60</ttl><webMaster>爬爬茨</webMaster><item><title>爬爬茨</title><link>https://b.zbb96.dynv6.net/post/pa-pa-ci.html</link><description>{
+  'title': '爬爬 茨',
   'subTitle': '一些随手的笔记',
   'style': '&lt;style&gt;#postBody{font-size:20px}&lt;/style&gt;',
   'allHead': '&lt;script src='https://blog.meekdai.com/Gmeek/plugins/GmeekBSZ.js'&gt;&lt;/script&gt;',
