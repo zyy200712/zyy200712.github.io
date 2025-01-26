@@ -1,9 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>爬爬茨</title><link>https://b.zbb96.dynv6.net</link><description>一些随手的笔记</description><copyright>爬爬茨</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://cdn.jsdelivr.net/gh/zb9678/img@main/up1/01.26:16:59:17.png</url><title>avatar</title><link>https://b.zbb96.dynv6.net</link></image><lastBuildDate>Sun, 26 Jan 2025 11:18:02 +0000</lastBuildDate><managingEditor>爬爬茨</managingEditor><ttl>60</ttl><webMaster>爬爬茨</webMaster><item><title>about</title><link>https://b.zbb96.dynv6.net/post/about.html</link><description>abc。</description><guid isPermaLink="true">https://b.zbb96.dynv6.net/post/about.html</guid><pubDate>Sun, 26 Jan 2025 10:31:08 +0000</pubDate></item><item><title>博客</title><link>https://b.zbb96.dynv6.net/post/bo-ke.html</link><description>### 博客
-
-https://bo.zb9.us.kg/tag.html   琶琶啙
-https://bk.z07.us.kg/tag.html     葩葩🔭思
-https://b.zbb96.dynv6.net/tag.html。</description><guid isPermaLink="true">https://b.zbb96.dynv6.net/post/bo-ke.html</guid><pubDate>Sun, 26 Jan 2025 08:47:15 +0000</pubDate></item><item><title>爬爬茨</title><link>https://b.zbb96.dynv6.net/%E7%9F%A5%E8%AF%86.html</link><description>{
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>爬爬茨</title><link>https://b.zbb96.dynv6.net</link><description>一些随手的笔记</description><copyright>爬爬茨</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://cdn.jsdelivr.net/gh/zb9678/img@main/up1/01.26:16:59:17.png</url><title>avatar</title><link>https://b.zbb96.dynv6.net</link></image><lastBuildDate>Sun, 26 Jan 2025 11:24:54 +0000</lastBuildDate><managingEditor>爬爬茨</managingEditor><ttl>60</ttl><webMaster>爬爬茨</webMaster><item><title>爬爬茨</title><link>https://b.zbb96.dynv6.net/post/pa-pa-ci.html</link><description>{
   'title': '爬爬茨',
   'subTitle': '一些随手的笔记',
   'style': '&lt;style&gt;#postBody{font-size:20px}&lt;/style&gt;',
@@ -46,4 +42,8 @@ https://b.zbb96.dynv6.net/tag.html。</description><guid isPermaLink="true">http
   'ogImage': 'https://cdn.jsdelivr.net/gh/zb9678/img@main/up1/01.26:16:59:17.png',
   'primerCSS': '&lt;link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' /&gt;',
   'needComment': 0
-}。</description><guid isPermaLink="true">https://b.zbb96.dynv6.net/%E7%9F%A5%E8%AF%86.html</guid><pubDate>Sun, 26 Jan 2025 09:13:53 +0000</pubDate></item></channel></rss>
+}。</description><guid isPermaLink="true">https://b.zbb96.dynv6.net/post/pa-pa-ci.html</guid><pubDate>Sun, 26 Jan 2025 09:13:53 +0000</pubDate></item><item><title>博客</title><link>https://b.zbb96.dynv6.net/post/bo-ke.html</link><description>### 博客
+
+https://bo.zb9.us.kg/tag.html   琶琶啙
+https://bk.z07.us.kg/tag.html     葩葩🔭思
+https://b.zbb96.dynv6.net/tag.html。</description><guid isPermaLink="true">https://b.zbb96.dynv6.net/post/bo-ke.html</guid><pubDate>Sun, 26 Jan 2025 08:47:15 +0000</pubDate></item><item><title>about</title><link>https://b.zbb96.dynv6.net/about.html</link><description>abc。</description><guid isPermaLink="true">https://b.zbb96.dynv6.net/about.html</guid><pubDate>Sun, 26 Jan 2025 10:31:08 +0000</pubDate></item></channel></rss>
