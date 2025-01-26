@@ -1,6 +1,45 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://zyy200712.github.io</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://zyy200712.github.io</link></image><lastBuildDate>Sun, 26 Jan 2025 08:48:28 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>博客</title><link>https://zyy200712.github.io/post/bo-ke.html</link><description>### 博客
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>爬爬茨</title><link>https://b.zbb96.dynv6.net/</link><description>一些随手的笔记</description><copyright>爬爬茨</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/180062094?v=4</url><title>avatar</title><link>https://b.zbb96.dynv6.net/</link></image><lastBuildDate>Sun, 26 Jan 2025 09:21:14 +0000</lastBuildDate><managingEditor>爬爬茨</managingEditor><ttl>60</ttl><webMaster>爬爬茨</webMaster><item><title>爬爬茨</title><link>https://b.zbb96.dynv6.net//post/pa-pa-ci.html</link><description>{
+    'title':'爬爬茨',
+    'subTitle':'一些随手的笔记',
+    'style':'&lt;style&gt;#postBody{font-size:20px}&lt;/style&gt;',
+    'allHead':'&lt;script src='https://blog.meekdai.com/Gmeek/plugins/GmeekBSZ.js'&gt;&lt;/script&gt;',
+    'avatarUrl':'https://avatars.githubusercontent.com/u/180062094?v=4',
+    'script':'&lt;script src='https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js'&gt;&lt;script async src='//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js'&gt;&lt;script src='https://blog.meekdai.com/Gmeek/plugins/articletoc.js'&gt;&lt;script src='https://blog.meekdai.com/Gmeek/plugins/lightbox.js'&gt;&lt;script&gt;document.getElementById('cmButton').click();&lt;/script&gt;',
+    'GMEEK_VERSION':'last',
+    'homeUrl':'https://b.zbb96.dynv6.net/',
+'faviconUrl':'https://cdn.jsdelivr.net/gh/zb9678/img@main/up1/01.26:16:59:17.png',
+'email':'zyy7031@gmail.com',
+'startSite':'01/16/2025',
+'filingNum':'鲁ICP备20250105号',
+'onePageListNum':15,
+'singlePage':['about'],
+'iconList':{'music':'M11.905.42a1.5 1.5 0 0 1 2.144.49l1.692 2.93a1.5 1.5 0 0 1-.649 2.102L2.895 11.815a1.5 1.5 0 0 1-1.95-.602l-.68-1.176a1.5 1.5 0 0 1 .455-1.99L11.905.422Zm-3.374 9.79a.75.75 0 0 1 .944.253l2.644 3.864a.751.751 0 0 1-1.238.847L9 12.424v2.826a.75.75 0 0 1-1.5 0v-2.826l-1.881 2.75a.75.75 0 1 1-1.238-.848l2.048-2.992a.752.752 0 0 1 .293-.252l1.81-.871Zm2.476-3.965v-.001l1.356-.653-1.52-2.631-1.243.848ZM3.279 8.119l.835 1.445 1.355-.653-.947-1.64Z'},
+'exlink':{'music':'https://open.spotify.com'},
+'iconList':{'笔记':'M9.923 5.302c.063.063.122.129.178.198H14A.75.75 0 0 1 14 7h-3.3l.578 5.163.362 2.997a.75.75 0 0 1-1.49.18L9.868 13H6.132l-.282 2.34a.75.75 0 0 1-1.49-.18l.362-2.997L5.3 7H2a.75.75 0 0 1 0-1.5h3.9a2.54 2.54 0 0 1 .176-.198 3 3 0 1 1 3.847 0ZM9.2 7.073h-.001a1.206 1.206 0 0 0-2.398 0L6.305 11.5h3.39ZM9.5 3a1.5 1.5 0 1 0-3.001.001A1.5 1.5 0 0 0 9.5 3Z'},
+'exlink':{'笔记':'https://bk.z07.us.kg/tag.html'},
+'commentLabelColor':'#006b75',
+'yearColorList':['#bc4c00', '#0969da', '#1f883d', '#A333D0'],
+'i18n':'CN',
+'UTC':8,
+'themeMode':'manual',
+'nightTheme':'dark_colorblind',
+'dayTheme':'light',
+'urlMode':'pinyin',
+'style':'',
+'script':'',
+'head':'',
+'allHead':'',
+'indexStyle':'',
+'indexScript':'',
+'showPostSource':1,
+'rssSplit':'sentence',
+'bottomText':'转载请注明出处',
+'ogImage':'https://cdn.jsdelivr.net/gh/zb9678/img@main/up1/01.26:16:59:17.png',
+'primerCSS':'&lt;link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' /&gt;',
+'needComment':0
+}。</description><guid isPermaLink="true">https://b.zbb96.dynv6.net//post/pa-pa-ci.html</guid><pubDate>Sun, 26 Jan 2025 09:13:53 +0000</pubDate></item><item><title>博客</title><link>https://b.zbb96.dynv6.net//post/bo-ke.html</link><description>### 博客
 
 https://bo.zb9.us.kg/tag.html   琶琶啙
 https://bk.z07.us.kg/tag.html     葩葩🔭思
-https://b.zbb96.dynv6.net/tag.html。</description><guid isPermaLink="true">https://zyy200712.github.io/post/bo-ke.html</guid><pubDate>Sun, 26 Jan 2025 08:47:15 +0000</pubDate></item></channel></rss>
+https://b.zbb96.dynv6.net/tag.html。</description><guid isPermaLink="true">https://b.zbb96.dynv6.net//post/bo-ke.html</guid><pubDate>Sun, 26 Jan 2025 08:47:15 +0000</pubDate></item></channel></rss>
