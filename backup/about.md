@@ -58,6 +58,10 @@ https://ping.chinaz.com/edgetunnel.anycast.eu.org
 
 https://whoer.net/zh
 
+## 统计图表 freessl
+
+https://freessl.cn/chart
+
 ## 网盘直链获取
 
 https://link.gimhoy.com/
@@ -86,11 +90,24 @@ https://aistudio.google.com/prompts/new_chat
 
 https://github.com/popjane/free_chatgpt_api
 
+##  OpenAI Platform   API KEY 
+
+https://platform.openai.com/api-keys
+
 ## Google应用专用密码
 
 https://link.w07.us.kg/google
 
+## Looking Glass points in USA 测速地址
 
+https://looking.house/points.php?country=21
+
+
+
+
+## 头像zcr071225@gmail.com邮箱认证
+
+https://cn.gravatar.com/
 
 
 
