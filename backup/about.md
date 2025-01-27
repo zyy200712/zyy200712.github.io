@@ -1,6 +1,26 @@
-##  cloudflare
+## chatgpt
+
+https://chatgpt.com
+
+## perplexity
+
+https://www.perplexity.ai
+
+## lobechat
+
+https://cha.r08.us.kg/chat?session=inbox&topic=bo3YERGi
+
+## vercel
+
+https://vercel.com/zcr07s-projects/lobchat/settings/domains
+
+##  cloudflare  zcr071225  @zb
 
 https://dash.cloudflare.com/addfe9fc56c06acb158fd7b4883b478f/workers-and-pages
+
+### cloudflare Token
+
+https://dash.cloudflare.com/profile/api-tokens
 
 ## Github
 
@@ -10,13 +30,65 @@ https://dash.cloudflare.com/addfe9fc56c06acb158fd7b4883b478f/workers-and-pages
 
 - https://github.com/zbb7001/z.github.io/issues/16
 
+### Github tokens
+
+- https://github.com/settings/tokens
+
+## 项目 · GitLab
+
+-  https://gitlab.com/
+
+## 华为云
+
+https://console-intl.huaweicloud.com/dns/?region=ap-southeast-1&locale=zh-cn#/dns/dashboard
+
 ## itdog
 
 https://www.itdog.cn/ping/
 
-## 
+## 测本机IP 全局
 
+https://ip.sb/
 
+## 站长工具
+
+https://ping.chinaz.com/edgetunnel.anycast.eu.org
+
+## 测试ip纯净度
+
+https://whoer.net/zh
+
+## 网盘直链获取
+
+https://link.gimhoy.com/
+
+## hostry解析 zcr071225Zb8
+
+https://hostry.com/orders/
+
+## dynv6解析
+
+https://dynv6.com/users/sign_in
+
+##  rr.uu   zbb7001 z8
+
+https://sitelutions.com/login
+
+##  us.kg   zcr071225 Zb8 24.5
+
+https://register.us.kg/panel/main
+
+## Google API KEY    Gemini API
+
+https://aistudio.google.com/prompts/new_chat
+
+## ChatGPT   API KEY 
+
+https://github.com/popjane/free_chatgpt_api
+
+## Google应用专用密码
+
+https://link.w07.us.kg/google
 
 
 
