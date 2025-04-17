@@ -1,4 +1,4 @@
-# 爬爬茨 :link: https://y.zcr8.ddns-ip.net/tag.html 
+# 爬爬茨 :link: https://y.zcr8.ddns-ip.net
 ### :page_facing_up: [2](https://y.zcr8.ddns-ip.net/tag.html) 
 ### :speech_balloon: 0 
 ### :hibiscus: 1919 
