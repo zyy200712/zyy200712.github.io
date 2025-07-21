@@ -4,13 +4,15 @@
 
 ## 图床
 
-`zcrzbb`   https://tu7.zcr25.dedyn.io/   https://tch.zcr5.xx.kg/
+`zcrzbb`   https://tu7.zcr25.dedyn.io/                                 https://tch.zcr5.xx.kg/
 
 https://upld.zone.id/
 
 https://tc.r07.cloudns.be/zbb
 
 `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`      https://picx.xpoet.cn/#/          
+
+`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`
 
 ## 博客
 
