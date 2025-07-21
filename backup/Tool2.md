@@ -4,9 +4,9 @@
 
 ## 图床
 
-`zcrzbb`   https://tu7.zcr25.dedyn.io/
+`zcrzbb`   https://tu7.zcr25.dedyn.io/   https://tch.zcr5.xx.kg/
 
-`zcrzbb`   https://tch.zcr5.xx.kg/
+https://upld.zone.id/
 
 https://tc.r07.cloudns.be/zbb
 
