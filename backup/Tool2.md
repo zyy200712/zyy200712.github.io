@@ -1,84 +1,4 @@
-## 导航
 
-[杷杷瓷伎](https://da.zcr25.x10.mx/) 
-
-## 图床
-
-`zcrzbb`   https://tu7.zcr25.dedyn.io/                                 https://tch.zcr5.xx.kg/
-
-https://upld.zone.id/
-
-https://tc.r07.cloudns.be/zbb
-
-`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`      https://picx.xpoet.cn/#/          
-
-`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`
-
-## 博客
-
-[妑🔭差](https://z.zcr4.ip-ddns.com/  )
-
-https://github.com/zcr07/zcr7.github.io/issues/new
-
- [舥舥🔭兹](https://bg.zcr4.ip-ddns.com/)
-
-https://github.com/zcr07/git-blog-share/tree/main/posts
-
-[帊帊🔭瓷](https://as.zcr25.dedyn.io/)          
-
- https://as.zcr25.dedyn.io/admin
-
-[🌚筢筢🔭嬨](https://hx.zcr25.dedyn.io/)
-
-https://github.com/zcr07/hexo/tree/main/source/_posts
-
-[叭叭粢 🔭](https://pap.zb9.dpdns.org/)
-
-https://github.com/zcr07/zcr07.github.io/tree/master/_posts
-
-[袙袙斯](https://bo.h07.dpdns.org/)
-
-7001      https://github.com/zbb7001/zb.github.io/tree/master/z            
-
-🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓 gitlab 🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓
-
---------------------------------https://gitlab.com/users/sign_in/
-
-01=====zcr=====F7=====https://gitlab.com/zcr071225=================zcr
-
-02=====zb9=====F7=====https://gitlab.com/zb9678==================zb9
-
-03=====7001=====F7=====https://gitlab.com/zbb2===================7001
-
-🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓 常用
-
-https://idx.google.com/z517-99013236
-
-https://colab.research.google.com/drive/1uQONtCVACeAWip1dzQolGJsAptjEf8Pn#scrollTo=egU0obRUq7mZ
-
-https://www.doubao.com/chat/drive/7214596584651266?tab=myUpload
-
-https://www.terabox.com/main?category=all
-
-https://da.zcr4.ip-ddns.com/
-
-https://zh.zcr4.ip-ddns.com/https://z.zcr4.ip-ddns.com/Tool2.html#desec.io
-
-🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓    节点
-
-===== https://client.webhostmost.com/clientarea.php ===zb9678@outlook.com==F7
-
-==pub===  https://pub.u07.dpdns.org/e78f1f95-d0bc-4875-8979-76c26cb9212e
-
-==zds===  https://zds.u07.dpdns.org/bfa7f851-240b-4b7a-a6fe-fce52925ec70
-
-🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓    节点
-
-===== https://client.webhostmost.com/clientarea.php ===ngro1031@gmail.com==F7
-
-==yhg===  https://yhg.u07.dpdns.org/66344ea1-c7c5-4fe7-b16f-090c50da19e0
-
-🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓    节点    
 
 🚛🚛🚛🚛🚛🚛🚛🚛🚛🚛🚛git_cf 🚛🚛🚛🚛🚛🚛🚛🚛🚛🚛🚛🚛
 
@@ -734,6 +654,101 @@ zcr25.x10.mx             zcr
 📢📢📢📢📢📢📢📢📢📢📢📢📢📢📢📢📢📢📢📢📢📢📢 📢📢
 📢📢📢📢📢📢📢📢📢📢📢📢📢📢📢📢📢📢📢📢📢📢📢 📢📢
 📢📢📢📢📢📢📢📢📢📢📢📢📢📢📢📢📢📢📢📢📢📢📢 📢📢
+
+
+## 导航
+
+[杷杷瓷伎](https://da.zcr25.x10.mx/) 
+
+## 图床
+
+`zcrzbb`   https://tu7.zcr25.dedyn.io/                                 https://tch.zcr5.xx.kg/
+
+https://upld.zone.id/
+
+https://tc.r07.cloudns.be/zbb
+
+`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`      https://picx.xpoet.cn/#/          
+
+`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`
+
+## 博客
+
+[妑🔭差](https://z.zcr4.ip-ddns.com/  )
+
+https://github.com/zcr07/zcr7.github.io/issues/new
+
+ [舥舥🔭兹](https://bg.zcr4.ip-ddns.com/)
+
+https://github.com/zcr07/git-blog-share/tree/main/posts
+
+[帊帊🔭瓷](https://as.zcr25.dedyn.io/)          
+
+ https://as.zcr25.dedyn.io/admin
+
+[🌚筢筢🔭嬨](https://hx.zcr25.dedyn.io/)
+
+https://github.com/zcr07/hexo/tree/main/source/_posts
+
+[叭叭粢 🔭](https://pap.zb9.dpdns.org/)
+
+https://github.com/zcr07/zcr07.github.io/tree/master/_posts
+
+[袙袙斯](https://bo.h07.dpdns.org/)
+
+7001      https://github.com/zbb7001/zb.github.io/tree/master/z            
+
+🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓 gitlab 🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓
+
+--------------------------------https://gitlab.com/users/sign_in/
+
+01=====zcr=====F7=====https://gitlab.com/zcr071225=================zcr
+
+02=====zb9=====F7=====https://gitlab.com/zb9678==================zb9
+
+03=====7001=====F7=====https://gitlab.com/zbb2===================7001
+
+🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓 常用
+
+https://idx.google.com/z517-99013236
+
+https://colab.research.google.com/drive/1uQONtCVACeAWip1dzQolGJsAptjEf8Pn#scrollTo=egU0obRUq7mZ
+
+https://www.doubao.com/chat/drive/7214596584651266?tab=myUpload
+
+https://www.terabox.com/main?category=all
+
+https://da.zcr4.ip-ddns.com/
+
+https://zh.zcr4.ip-ddns.com/https://z.zcr4.ip-ddns.com/Tool2.html#desec.io
+
+🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓    节点
+
+===== https://client.webhostmost.com/clientarea.php ===zb9678@outlook.com==F7
+
+==pub===  https://pub.u07.dpdns.org/e78f1f95-d0bc-4875-8979-76c26cb9212e
+
+==zds===  https://zds.u07.dpdns.org/bfa7f851-240b-4b7a-a6fe-fce52925ec70
+
+🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓    节点
+
+===== https://client.webhostmost.com/clientarea.php ===ngro1031@gmail.com==F7
+
+==yhg===  https://yhg.u07.dpdns.org/66344ea1-c7c5-4fe7-b16f-090c50da19e0
+
+🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓🐓    节点    
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## 订阅
 
