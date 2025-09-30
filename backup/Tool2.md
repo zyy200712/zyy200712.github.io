@@ -484,19 +484,24 @@ zcr25.x10.mx             zcr
 📢📢📢📢📢📢📢📢📢📢📢📢📢📢📢📢📢📢📢📢📢📢📢 📢📢
 ## xx.kg
 
+
+======================zhcr======================20260928
+zbb7.qzz.io             10月
+zbb7.dpdns.org      10月
+
 ======================1133======================20260928
-zcr5.dpdns.org   10月
-zcr.qzz.io       10月
+zcr5.dpdns.org      10月
+zcr.qzz.io               10月
 
 ======================61======================20261001
-zcr6.qzz.io      10月
-zcr6.dpdns.org   10月
+zcr6.qzz.io             10月
+zcr6.dpdns.org     10月
 
 ======================zcr======================20260506  M
-zcr07.dpdns.org  6月
-zbb07.dpdns.org  7月
-zb9.dpdns.org    8月
-zcr07.xx.kg     5月
+zcr07.dpdns.org     6月
+zbb07.dpdns.org    7月
+zb9.dpdns.org        8月
+zcr07.xx.kg             5月
 
 ======================zb9======================20260506
 z07.dpdns.org    8月
@@ -526,7 +531,7 @@ y07.dpdns.org   9月
 h07.dpdns.org   9月
 zcr25.xx.kg    5月
 
-## xx.kg
+
 
 ==============https://dash.domain.digitalplat.org/auth/login
 
