@@ -1,4 +1,4 @@
-2导航：   https://d.zcr.de5.net/
+2导航：   https://d.zyy7.qzz.io/
 
 导航：   https://h.zyy7.qzz.io/
 
@@ -6,7 +6,7 @@ https://panel.freecloud.ltd/clientarea.php
 
 https://wispbyte.com/
 
-https://railway.com/project/2110c3c7-2276-4e2f-8216-3f898475f0a2/service/4f2afa7c-d81e-4bd2-99f6-1439ef9546c3/settings?environmentId=a0f7d95c-ccbf-46ff-86fa-7=b12b89d11a3
+https://railway.com/project/2110c3c7-2276-4e2f-8216-3f898475f0a2/service/4f2afa7c-d81e-4bd2-99f6-1439ef9546c3/settings?environmentId=a0f7d95c-ccbf-46ff-86fa-7b12b89d11a3
 
 https://betadash.lunes.host/
 
@@ -24,26 +24,13 @@ https://www.terabox.com/
 
 🧿🧿🧿🧿🧿🧿🧿🧿🧿🧿  域名邮箱 🧿🧿🧿🧿🧿🧿🧿🧿🧿🧿
 
+===========================  https://moemail.app/zh-CN/moe
 
-=============================== https://zcr6.qzz.io/
+01========zk=============== F6 =======   zhcr@moemail.app
 
-01==========================================zbb F7
+02================================== kev07@moemail.app
 
-
-=========================== https://m.zyy7.dpdns.org/
-
-02==========================================zyy F6
-
-
-============================== https://m.zcr.de5.net/
-
-03==========================================zkk F6
-
------------------------------------------------------------------------------------
-============================== https://moemail.app/
-
-=========zk=============== F6 ====== zhcr@moemail.app
-
+03==================================  zcr55@moemail.app
 
 
 🧿🧿🧿🧿🧿🧿🧿🧿🧿🧿  域名邮箱 🧿🧿🧿🧿🧿🧿🧿🧿🧿🧿
@@ -491,7 +478,7 @@ https://www.terabox.com/
 
 01 ==============F7=======  zbb7001@gmail.com
 
-=====7001============== zcr25.x10.bz ================== 
+=====zk================ zcr25.x10.bz ================== 
 
 ===== ng=============== zcr25.elementfx.com =============
 	
@@ -502,7 +489,7 @@ https://www.terabox.com/
 
 02 ===============F7=====   zcr071225@gmail.com
 
-=====kev======== zb25.elementfx.com ====================  
+=====kev======== zb25.elementfx.com ===================
 
 =====zyy======== zb25.x10.bz =========================   
 
@@ -511,13 +498,13 @@ https://www.terabox.com/
 
 -----------------------------------------https://x10hosting.com/login
 
-03 ==============F6=======  zkkev53@gmail.com
+03 ===============F6=====   zkkev53@gmail.com
 
-=====7001============== zbb7.x10.mx ================== 
+=====700======== zbb7.x10.mx ========================  
 
-===== ng=============== zcr7.x10.mx ===================
-	
-=====zyy=============== zkk7.x10.mx =================== 
+=====zyy======== zkk7.x10.mx =========================   
+
+=====ng ======== zcr7.x10.mx =========================
 
 
 ##  dynv6
@@ -574,7 +561,7 @@ https://www.terabox.com/
 
 🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪  dnshe.com 🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪 06
 
------F6-----zkkev53@gmail.com-------------------https://my.dnshe.com/index.php 
+-------------------https://my.dnshe.com/index.php-----F6-----zkkev53@gmail.com
 
 01================  zcr.de5.net  ===============
 
@@ -590,7 +577,7 @@ https://www.terabox.com/
 
 07================  zkk.us.ci ==================
 
- ----F6----- zb9678@gmail.com-------------------https://my.dnshe.com/index.php
+-------------------https://my.dnshe.com/index.php ----F6----- zb9678@gmail.com
 
 1================  zb8.de5.net  ================.
 
@@ -606,7 +593,7 @@ https://www.terabox.com/
 
 7================  zb9.us.ci ===================
 
- ----F6------zbb7001@gmail.com-------------------https://my.dnshe.com/index.php
+-------------------https://my.dnshe.com/index.php ----F6------zbb7001@gmail.com
 
 01================  zb0.de5.net ==================.
 
@@ -623,7 +610,7 @@ https://www.terabox.com/
 07================  zb7.de5.net ==================
 
 
- ----F6------zyy7031@gmail.com-------------------https://my.dnshe.com/index.php
+-------------------https://my.dnshe.com/index.php ----F6------zyy7031@gmail.com
 
 01================  zyy0.de5.net ==================.
 
@@ -634,8 +621,6 @@ https://www.terabox.com/
 04================  zyy3.de5.net ==================.
 
 05================  zyy4.de5.net ==================.
-
-
 
 ## hidns.co
 
