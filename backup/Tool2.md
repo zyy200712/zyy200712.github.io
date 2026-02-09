@@ -342,7 +342,7 @@
 
 ====zcr25.dedyn.io====F7==================zcr76@outlook.com
 
-====zcr9.dedyn.io=====F7==================zcr02@outlook.com 
+====zcr9.dedyn.io=====F7==================zcr48@outlook.com 
 
 
 ## cloudns.be
