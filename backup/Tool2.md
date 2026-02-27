@@ -371,14 +371,45 @@ https://d.zb9678.zabc.net/
 
 🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱 dynu 🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱 永久
 
-=====zk谷登========https://www.dynu.com/zh-CN/ControlPanel/DDNS
 
-01===========zkk7.accesscam.org ===========
+=====kev谷登======== https://www.dynu.com/zh-CN/ControlPanel/DDNS
 
-02===========zkk7.kozow.com ============= 
+01===========kem.giize.com ================
+
+02===========kev.accesscam.org =============
+
+03===========kev.ddnsfree.com ==============
+
+04===========kev.kozow.com ===============
 
 
-=====zb9谷登========https://www.dynu.com/zh-CN/ControlPanel/DDNS
+
+=====zzz谷登======== https://www.dynu.com/zh-CN/ControlPanel/DDNS
+
+
+01===========zli.accesscam.org ==============
+
+02===========zli.ddnsfree.com ==============
+
+03===========zli.giize.com =================
+
+04===========zli.kozow.com ================
+
+
+
+=====zhc谷登======== https://www.dynu.com/zh-CN/ControlPanel/DDNS
+
+01===========zhc.accesscam.org =============
+
+02===========zhc.ddnsfree.com ==============
+
+03===========zhc.giize.com ================
+
+04===========zhc.kozow.com ===============
+
+
+
+=====zb9谷登======== https://www.dynu.com/zh-CN/ControlPanel/DDNS
 
 01===========zb9.ddnsfree.com   =============
 
@@ -387,6 +418,17 @@ https://d.zb9678.zabc.net/
 03===========zcr07.giize.com ================
 
 04===========zcr07.kozow.com ===============
+
+
+=====zk谷登======== https://www.dynu.com/zh-CN/ControlPanel/DDNS
+
+01===========zkk7.accesscam.org ===========
+
+02===========zkk7.kozow.com ============= 
+
+03===========zkk.freeddns.org ============= 
+
+04===========zkk.giize.com ===============
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
