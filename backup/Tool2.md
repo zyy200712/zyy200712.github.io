@@ -292,27 +292,6 @@ https://d.zb9678.zabc.net/
 11===Gi============zcr071225@gmail.com========= F7
 
 
-## dynu
-
-🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱 dynu 🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱 永久
-
-=====zk谷登========https://www.dynu.com/zh-CN/ControlPanel/DDNS
-
-01===========zkk7.accesscam.org ===========
-
-02===========zkk7.kozow.com ============= 
-
-
-=====zb9谷登========https://www.dynu.com/zh-CN/ControlPanel/DDNS
-
-01===========zb9.ddnsfree.com   =============
-
-02===========zb9.giize.com   ================
-
-03===========zcr07.giize.com ================
-
-04===========zcr07.kozow.com ===============
-
 
 ##  dynv6
 
@@ -371,6 +350,29 @@ https://d.zb9678.zabc.net/
 ====zcr25.dedyn.io====F7==================zcr76@outlook.com
 
 ====zcr9.dedyn.io=====F7==================zcr48@outlook.com 
+
+
+
+## dynu
+
+🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱 dynu 🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱 永久
+
+=====zk谷登========https://www.dynu.com/zh-CN/ControlPanel/DDNS
+
+01===========zkk7.accesscam.org ===========
+
+02===========zkk7.kozow.com ============= 
+
+
+=====zb9谷登========https://www.dynu.com/zh-CN/ControlPanel/DDNS
+
+01===========zb9.ddnsfree.com   =============
+
+02===========zb9.giize.com   ================
+
+03===========zcr07.giize.com ================
+
+04===========zcr07.kozow.com ===============
 
 
 ## cloudns.be
