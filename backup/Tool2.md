@@ -432,6 +432,37 @@ https://d.zb9678.zabc.net/
 04===========zkk.giize.com ===============
 
 
+
+## frii.site
+
+🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱 frii.site 🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱 永久
+
+
+=====zbb===F6===== https://www.frii.site/login?ref=as12as
+
+01===========zkk.frii.site ===========
+
+02===========113.frii.site ============= 
+
+03===========zcr.frii.site ============= 
+
+04===========zbg.frii.site ===============
+
+05===========zli.frii.site ===============
+
+
+
+=====zb9===F6===== https://www.frii.site/login?ref=as12as
+
+01===========zhc.frii.site ===========
+
+02===========z70.frii.site ============= 
+
+03===========ng7.frii.site ============= 
+
+04===========kev.frii.site ===============
+
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 ## hidns.co
