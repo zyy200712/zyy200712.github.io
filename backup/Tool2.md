@@ -368,9 +368,67 @@ https://d.zb9678.zabc.net/
 ====zb9.dedyn.io=====F6==================zb9678@gmail.com
 
 
+## ndjp.net
+
+🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱 ndjp.net 🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱 永久
+
+
+=====LouSheree===F6===== https://ndjp.net/index_old.php
+
+01===========zk1.ndjp.net =============
+
+02===========zk2.ndjp.net ============= 
+
+03===========zk3.ndjp.net ============= 
+
+04===========zk4.ndjp.net ==============
+
+05===========zk5.ndjp.net ==============
+
+
+
+=====ElnoraShelby===F6===== https://ndjp.net/index_old.php
+
+01===========zcr.ndjp.net =============
+
+02===========zb9.ndjp.net ============= 
+
+03===========zbb.ndjp.net ============= 
+
+04===========z70.ndjp.net ==============
+
+05===========zhc.ndjp.net ==============
+
+
+=====JanellBrenda===F6===== https://ndjp.net/index_old.php
+
+01===========z71.ndjp.net =============
+
+02===========z72.ndjp.net ============= 
+
+03===========z73.ndjp.net ============= 
+
+04===========z74.ndjp.net ==============
+
+05===========z75.ndjp.net ==============
+
+
+=====BridgettGuadalupe ===F6===== https://ndjp.net/index_old.php
+
+01===========ng6.ndjp.net =============
+
+02===========zy6.ndjp.net ============= 
+
+03===========zb6.ndjp.net ============= 
+
+04===========zc6.ndjp.net ==============
+
+05===========zk6.ndjp.net ==============
+
+
 ## dynu
 
-🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱 dynu 🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱 永久
+🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱 dynu 🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱  生成有限
 
 
 =====kev谷登======== https://www.dynu.com/zh-CN/ControlPanel/DDNS
@@ -435,7 +493,7 @@ https://d.zb9678.zabc.net/
 
 ## frii.site
 
-🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱 frii.site 🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱 永久
+🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱 frii.site 🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱 生成有限
 
 
 =====zbb===F6===== https://www.frii.site/login?ref=as12as
