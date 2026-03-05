@@ -800,6 +800,17 @@ zhc7.indevs.in
 
 
 
+-----------------------------------------https://x10hosting.com/login
+
+01 ===============F6=====   zk2@zcr9.qzz.io
+
+=====zcr======== zx1.elementfx.com ====================
+
+=====zb9======== zx2.elementfx.com ====================
+
+=====zyy ======== zx3.elementfx.com ====================
+
+
 ## dnshe
 
 
