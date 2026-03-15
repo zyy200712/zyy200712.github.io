@@ -45,6 +45,8 @@ https://d.zb9678.zabc.net/
 
 === zhc========https://zcr9.dpdns.org/ ============zhc F7  
 
+=== ng ========https://cc.u07.dpdns.org/============ng F7  
+
 =====================https://moemail.app/zh-CN/moe ===zkF6
 
 01========zk=============== F6 =======   zhcr@moemail.app
