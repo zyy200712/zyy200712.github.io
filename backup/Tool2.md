@@ -31,29 +31,24 @@ https://d.zb9678.zabc.net/
 
 🧿🧿🧿🧿🧿🧿🧿🧿🧿🧿  moemail 邮箱 🧿🧿🧿🧿🧿🧿🧿🧿🧿🧿
 
-=== 70========https://zcr6.qzz.io/ ================zbbF7   
+01=== 70========https://zcr6.qzz.io/ ================zbbF7   
 
-=== zyy========https://m.zyy7.dpdns.org/ ===========zyyF6  
+02=== zyy========https://m.zyy7.dpdns.org/ ===========zyyF6  
 
-=== zkk========https://m.zcr25.dedyn.io/ ===========zkkF6 
+03=== zkk========https://m.zcr25.dedyn.io/ ===========zkkF6 
 
-=== zb9========https://zcr5.qzz.io/ ===============zb6F7  
+04=== zb9========https://zcr5.qzz.io/ ===============zb6F7  
 
-=== zzz========https://zzz07.dpdns.org/ ===========zzz F7  
+05=== zzz========https://zzz07.dpdns.org/ ===========zzz F7  
 
-=== 113========https://zcr5.dpdns.org/ ============113 F7   
+06=== 113========https://zcr5.dpdns.org/ ============113 F7   
 
-=== zhc========https://zcr9.dpdns.org/ ============zhc F7  
+07=== zhc========https://zcr9.dpdns.org/ ============zhc F7  
 
-=== ng ========https://cc.u07.dpdns.org/============ng F7  
+08=== ng ========https://cc.u07.dpdns.org/============ng F7  
 
-=====================https://moemail.app/zh-CN/moe ===zkF6
+09=============https://moemail.app/zh-CN/moe ===zkF6
 
-01========zk=============== F6 =======   zhcr@moemail.app
-
-02================================== kev07@moemail.app
-
-03=================================  zcr55@moemail.app
 
 
 ## edu 邮箱
