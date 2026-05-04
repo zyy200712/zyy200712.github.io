@@ -618,7 +618,7 @@ zbout.ggff.net
 
 ## eu.cc
 
-🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪 eu.cc 🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪 26.8.2  提前90天 5.3
+🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪 eu.cc 🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪 27.8.2  提前90天
 
 ---------F7----- https://www.gname.vip/user#/admin_ym -----------zyy
 
