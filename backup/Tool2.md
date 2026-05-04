@@ -712,7 +712,7 @@ zhc7.indevs.in
 
 🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱 ddns-ip 🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱 08
 
-============================= https://outlook.live.com/mail/0
+============================= https://www.cloudns.net/main/
 
 1=====zb9======zb9678@outlook.com============= F7z
 
@@ -727,7 +727,7 @@ zhc7.indevs.in
 
 🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱 ddns-ip🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱 09
 
-============================= https://outlook.live.com/mail/0
+============================= https://www.cloudns.net/main/
 
 01=====zyy=====zb9678@gmail.com========= F7y
 
@@ -745,7 +745,7 @@ zhc7.indevs.in
 
 🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱 ip-ddns🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱 10
 
-============================= https://outlook.live.com/mail/0
+============================= https://www.cloudns.net/main/
 
 01====zcr=======zb9678@hotmail.com===========  F7c
 
@@ -759,7 +759,7 @@ zhc7.indevs.in
 
 🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱 ddns-ip 🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱 11
 
-============================= https://outlook.live.com/mail/0
+============================= https://www.cloudns.net/main/
 
 01====700=======zcr071225@gmail.com===========F7
 
