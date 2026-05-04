@@ -527,19 +527,6 @@ https://d.zb9678.zabc.net/
 ====== kev============zc77.hidns.co ====27.5.17  到期前90天内
 
 
-## cloudns.be
-
-🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱cloudns.be🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱 12
-
-============= https://www.cloudns.net/records/domain/7778373/
-
-01====F7=======r@zbb07.filegear-sg.me ===========  r07.cloudns.be
-
-02====F7=======z@zbb07.filegear-sg.me =========== z07.cloudns.be
-
-03====F7=======1@zbb07.filegear-sg.me =========== k07.cloudns.be
-
-
 
 ## L53
 
@@ -706,8 +693,7 @@ ke07.indevs.in
 zhc7.indevs.in
 
 
-
-## cloudns.be
+# cloudns.be
 
 🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱cloudns.be🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱 01
 
@@ -724,66 +710,41 @@ zhc7.indevs.in
 
 ============================= https://www.cloudns.net/main/
 
-1=====zb9======zb9678@outlook.com============= F7z
-
 2=============zcr60@outlook.com===============zcr5.ddns-ip.net
-
-3=============zcr61@outlook.com==============
-
-4=============zcr00@outlook.com==============
-
-5=============zcr97@outlook.com============== 
 
 
 🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱cloudns.be🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱 03
 
 ============================= https://www.cloudns.net/main/
 
-01=====zyy=====zb9678@gmail.com========= F7y
-
 02============zcr74@outlook.com========= zcr8.ddns-ip.net
 
 03============zcr76@outlook.com========= zcr7.ggff.net
 
-04============zcr55@outlook.com
-
 05============zcr57@outlook.com========= zc25.ip-ddns.com
 
-06============zbb102@outlook.com
 
-07============zcr102@outlook.com
-
-🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱 ip-ddns🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱 04
+🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱cloudns.be🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱 04
 
 ============================= https://www.cloudns.net/main/
 
-01====zcr=======zb9678@hotmail.com===========  F7c
 
 02============zcr01@outlook.com===========zcr7.ip-ddns.com
 
 03============zcr02@outlook.com============zcr3.ddns-ip.net
 
-04============zcr48@outlook.com
 
-05============zcr54@outlook.com
-
-🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱 ddns-ip 🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱 05
+🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱cloudns.be🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱 05
 
 ============================= https://www.cloudns.net/main/
 
-01====700=======zcr071225@gmail.com===========F7
+01====F7=======zcr071225@gmail.com===========zcr07.dns-dynamic.net
 
-02=============zcr0711@outlook.com
 
-03=============zcr0712@outlook.com===========zcr6.ddns-ip.net
+03====F7========zcr0712@outlook.com===========zcr6.ddns-ip.net
 
-04=============zcr0713@outlook.com
 
-05=============zcr07145@outlook.com
-
-06=============zcr0715@outlook.com
-
-07=============zcr1225@outlook.com========== zcr4.ip-ddns.com
+07====F7========zcr1225@outlook.com========== zcr4.ip-ddns.com
 
 
 ## X10
