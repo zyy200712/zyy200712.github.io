@@ -527,6 +527,38 @@ https://d.zb9678.zabc.net/
 ====== kev============zc77.hidns.co ====27.5.17  到期前90天内
 
 
+## kdns.fr
+
+
+🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪  kdns.fr 🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪 07
+
+---------------------------- https://dashboard.katabump.com/
+
+=============================== zkk 永久 zkkev@zcr7.xx.kgF6
+
+zbb.kdns.fr
+zbb.kdns.fr
+
+=============================== kev 永久 kev07@zcr7.xx.kgF6
+
+kev.kdns.fr
+113.kdns.fr
+
+=============================== zcr 永久 zcr07@zcr7.xx.kgF6
+
+zhc.kdns.fr
+zyy.kdns.fr
+
+=============================== zbb 永久 zbb07@zcr7.xx.kgF6
+
+zb9.kdns.fr
+ngr.kdns.fr
+
+=============================== zzz 永久 zzz07@zcr7.xx.kgF6
+
+zzz07.kdns.fr
+zzz08.kdns.fr
+
 
 ## L53
 
