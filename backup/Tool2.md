@@ -684,43 +684,50 @@ zbout.ggff.net
 
 ##  indevs.in
 
----------F6----- https://domain.stackryze.com/login-----------zk
+---------F6----- https://domain.stackryze.com/login-----------zk               邮箱登
 
 zkk7.indevs.in
 
----------F6----- https://domain.stackryze.com/login-----------zb9
+---------F6----- https://domain.stackryze.com/login-----------zb9             邮箱登
 
 zb9.indevs.in
 
----------F6----- https://domain.stackryze.com/login-----------z70
+---------F6----- https://domain.stackryze.com/login-----------z70             邮箱登
 
 z70.indevs.in
 
----------F6----- https://domain.stackryze.com/login-----------zyy
+---------F6----- https://domain.stackryze.com/login-----------zyy             邮箱登
 
 zyy7.indevs.in
 
----------F6----- https://domain.stackryze.com/login-----------113
+---------F6----- https://domain.stackryze.com/login-----------113            邮箱登
 
 r113.indevs.in
 
----------F6----- https://domain.stackryze.com/login-----------ng
+---------F6----- https://domain.stackryze.com/login-----------ng             邮箱登
 
 ng7.indevs.in
 
----------F6----- https://domain.stackryze.com/login-----------zcr
+---------F6----- https://domain.stackryze.com/login-----------zcr            邮箱登
 
 zcr7.indevs.in 
 
----------F6----- https://domain.stackryze.com/login-----------zzz
+---------F6----- https://domain.stackryze.com/login-----------zzz            邮箱登
 
 zz07.indevs.in
 
----------F6----- https://domain.stackryze.com/login-----------kev
+---------F6----- https://domain.stackryze.com/login-----------zzz          Github登zzzcr07谷
+zz07.indevs.in            zhc
+zzz7.indevs.in            zhc
+zzz7.sryze.cc             zhc
+zcr6.indevs.in            zzz
+zcr5.indevs.in            zzz
+
+---------F6----- https://domain.stackryze.com/login-----------kev           邮箱登
 
 ke07.indevs.in
 
----------F6----- https://domain.stackryze.com/login-----------zhc
+---------F6----- https://domain.stackryze.com/login-----------zhc          邮箱登
 
 zhc7.indevs.in
 
