@@ -559,6 +559,11 @@ ngr.kdns.fr
 zzz07.kdns.fr
 zzz08.kdns.fr
 
+=============================== 113 永久 c1133@zcr7.xx.kg F6
+
+9378.kdns.fr
+5228.kdns.fr
+
 
 ## L53
 
